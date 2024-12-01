@@ -6,7 +6,7 @@ This repository contains the redesigned layout and components for the REDESIGN W
 
 ## 🖼 Preview
 
-![Project Preview](path/to/your/Task1.jpg)  
+![Project Preview](/Task1.jpg)  
 Add a screenshot or mockup of your redesigned website here.
 
 ## 🔧 Project Overview
