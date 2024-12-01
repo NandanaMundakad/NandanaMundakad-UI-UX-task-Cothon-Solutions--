@@ -1,6 +1,4 @@
 # NandanaMundakad-UI-UX-task-Cothon-Solutions--
-# UI-UX-task-Cothon-Solutions
-
 ## REDESIGN WEBSITE TASK-I
 
 This repository contains the redesigned layout and components for the **REDESIGN WEBSITE**. The goal of this redesign is to enhance user experience, improve visual aesthetics, and ensure responsiveness across all devices.
