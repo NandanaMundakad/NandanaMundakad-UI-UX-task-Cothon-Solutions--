@@ -16,8 +16,9 @@ This repository contains the redesigned layout and components for the **REDESIGN
 ## 🔧 Project Overview
 
 - **Project Type:** Web Design Redesign  
-- **Tools Used:** Figma (Design), HTML5, CSS3, JavaScript, and other technologies  
-- **Purpose:** Modernize the website's look and feel while maintaining a seamless and user-friendly interface.
+- **Tools Used:** Figma (Design)
+- Design Tools: Figma for wireframes, mockups
+- Prototyping Tools: Figma for interactive previews.
 
 ---
 
