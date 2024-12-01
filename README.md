@@ -57,12 +57,3 @@ This repository contains the redesigned layout and components for the **REDESIGN
    - **Testimonials:** Authentic customer reviews with star ratings.  
 
 ---
-
-## 🛠 Technologies Used
-
-- **Design Tools:** Figma for wireframes, mockups, and prototyping.  
-- **Prototyping Tools:** InVision or Marvel App for interactive previews.  
-- **Development:** HTML5, CSS3, and JavaScript for frontend development.  
-- **User Research:** Hotjar (heatmaps) and surveys to gather feedback.  
-
----
